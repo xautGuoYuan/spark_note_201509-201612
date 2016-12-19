@@ -6,7 +6,7 @@ QQ：616526018
 
 这一段时间主要学习了spark1.6及之前的版本
 文件夹说明如下：
-	com-----spark学习笔记java版本
+	com-----spark学习笔记java版本	
 		common---主要涉及到模拟数据的生成
 		java
 			Spark_SQL---主要涉及SparkSQL方面的学习
